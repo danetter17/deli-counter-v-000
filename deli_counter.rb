@@ -16,10 +16,7 @@ def line(katz_deli)
 end
 
 def take_a_number(katz_deli, customer)
-  current_line = []
-  if katz_deli == 0
-    
-    
+  katz_deli.push
 end
 
 def now_serving
